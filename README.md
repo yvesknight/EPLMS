@@ -4,19 +4,6 @@ A production-ready Spring Boot application implementing Leave Management, Perfor
 
 ---
 
-## Prerequisites
-
-Make sure you have the following installed:
-
-| Tool | Version | Download |
-|------|---------|----------|
-| Java JDK | 17+ | https://adoptium.net |
-| Git | Any | https://git-scm.com |
-
-> **Maven is NOT required** — the project includes `mvnw` / `mvnw.cmd` wrappers that download Maven automatically.
-
----
-
 ## Quick Start (Clone & Run)
 
 ### Windows
