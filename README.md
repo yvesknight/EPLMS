@@ -9,7 +9,7 @@ A production-ready Spring Boot application implementing Leave Management, Perfor
 ### Windows
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/EPLMS.git
+git clone https://github.com/yvesknight/EPLMS.git
 cd EPLMS
 mvnw.cmd spring-boot:run
 ```
@@ -17,7 +17,7 @@ mvnw.cmd spring-boot:run
 ### Linux / Mac
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/EPLMS.git
+git clone https://github.com/yvesknight/EPLMS.git
 cd EPLMS
 chmod +x mvnw
 ./mvnw spring-boot:run
