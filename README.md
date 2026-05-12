@@ -58,7 +58,7 @@ The app starts on **http://localhost:8080**
 Requires Docker Desktop: https://www.docker.com/products/docker-desktop
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/EPLMS.git
+git clone https://github.com/yvesknight/EPLMS.git
 cd EPLMS
 docker-compose up --build
 ```
